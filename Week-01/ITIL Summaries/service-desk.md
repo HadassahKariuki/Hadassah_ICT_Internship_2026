@@ -1,0 +1,13 @@
+SERVICE DESK
+What is this practice?
+The Service Desk practice acts as the main point of contact between the service provider and its users. It is responsible for receiving and managing incidents and service requests. 
+It is the first place employees go when they experience an IT issue, need assistance, have a question, or require a service. The Service Desk is more than just a support team; it is a structured practice that ensures communication between users and the IT support organization is handled in a consistent, organized, and efficient manner.
+
+2. Why does it matter?
+The Service Desk or the ICT Desk practice plays a vital role in all interactions between staff and the support organization. It ensures that communication is effective, convenient, and responsive throughout the service lifecycle. The practice also emphasizes empathy, meaning service desk staff understand and genuinely care about users' concerns and needs. By providing timely support and positive interactions, the Service Desk significantly improves user experience and overall satisfaction with IT services
+
+3. What goes wrong when it's missing or done poorly?
+When the Service Desk practice is missing or poorly handled, users have no clear place to go when something goes wrong, leading to confusion, delays, and unresolved issues. Without a single point of contact, requests get lost, different people handle the same issue in different ways, and users are left frustrated and unable to do their work. Communication breaks down between teams, problems take much longer to resolve, and the overall quality of service drops significantly.
+
+4. One real example from our institution – AWWDA
+At AWWDA, a practical example of the Service Desk/ICT Team desk practice in action is when an employee realizes they have forgotten their login details and are completely unable to access their computer or any of the work systems they need to carry out their daily tasks. The employee walks over to the Service Desk, which serves as the single point of contact for all IT related enquiries and issues. The employee explains the situation to the Service Desk team, that contacts to the relevant ICT officer to reset the employee's password. The ICT team carries out the reset, the employee is informed of their new login details, and they are able to log back into their computer and systems without any further delay. The entire process is handled in an organized and efficient manner, ensuring that the employee experiences as little disruption to their working day as possible and is back to being fully productive in a short amount of time.
